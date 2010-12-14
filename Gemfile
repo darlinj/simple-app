@@ -7,5 +7,6 @@ gem 'sqlite3-ruby', :require => 'sqlite3'
 group :development, :test do
   gem 'rspec-rails'
   gem 'rspec'
+  gem 'spork'
   gem 'webrat'
 end
